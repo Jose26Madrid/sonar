@@ -26,3 +26,7 @@ Iniciá sesión con:
     Dentro de tu cuenta, buscá la pestaña "Security".
 
     Ahí vas a ver un campo para crear un nuevo token.
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
