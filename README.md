@@ -30,3 +30,7 @@ Iniciá sesión con:
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+MIT License
+Copyright (c) 2025 Jose Magariño
+See LICENSE file for more details.
